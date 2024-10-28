@@ -1,8 +1,8 @@
 <h1 align="center">Hello World!🌎🖐 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### ⬛ I am a Student at Mexico!
+### ⬛ Data Analyst Jr!
 
-### Currently Studying Data Analytics and Frameworks such as C, Java and Python. 🐍
+### Trained with data for use in data science using Python and R 🐍
 
 ### I aspire to learn data science and know more about artificial intelligence. ✔
 
